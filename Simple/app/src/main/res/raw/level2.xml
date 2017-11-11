@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level id="2">
+    <enemies>
+        <enemyAvioneta>
+            <x>100</x>
+            <y>-150</y>
+        </enemyAvioneta>
+        <enemyHelicoptero>
+            <x>50</x>
+            <y>-50</y>
+        </enemyHelicoptero>
+        <enemyAvioneta>
+            <x>140</x>
+            <y>-200</y>
+        </enemyAvioneta>
+        <enemyHelicoptero>
+            <x>180</x>
+            <y>-200</y>
+        </enemyHelicoptero>
+        <corazones>
+            <corazon>
+                <x>80</x>
+                <y>-30</y>
+            </corazon>
+        </corazones>
+        <balas>
+            <bala>
+                <x>50</x>
+                <y>-50</y>
+            </bala>
+        </balas>
+    </enemies>
+</level>

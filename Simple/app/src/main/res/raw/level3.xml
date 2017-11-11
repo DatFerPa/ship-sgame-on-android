@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level id="2">
+    <enemies>
+        <enemyJefe>
+            <x>100</x>
+            <y>-150</y>
+        </enemyJefe>
+    </enemies>
+</level>
